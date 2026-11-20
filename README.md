@@ -24,11 +24,3 @@ City Weather App is a responsive front-end weather web application built with Re
 git clone [https://github.com/Sarah-SWE/your-repo-name.git](https://github.com/Sarah-SWE/your-repo-name.git)
 cd your-repo-name
 npm install
-
-
-├── public/
-├── src/
-│   ├── App.js            # Main component with search logic & weather display
-│   ├── App.css           # Custom layout & styling
-│   └── index.js          # App entry point
-└── package.json
